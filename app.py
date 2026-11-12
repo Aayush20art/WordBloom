@@ -39,7 +39,7 @@ st.markdown("""
     --text:        #3d2c5e;
     --text-soft:   #7c6899;
     --text-muted:  #b0a0c8;
-    --card:        #fff6fb;   /* 🔥 key change (no more pure white) */
+    --card:        #fff6fb;   /* 🔥 Key change (no more pure white) */
     --card-border: rgba(169,140,237,0.25);
     --shadow:      rgba(169,140,237,0.15);
 }
@@ -63,7 +63,7 @@ html, body, .stApp {
     z-index: 0;
     animation: dreamShift 10s ease-in-out infinite alternate;
 }
-@keyframes dreamShift {
+@keyframes dreamShif {
     0%   { opacity: 0.75; transform: scale(1);    }
     100% { opacity: 1;    transform: scale(1.03); }
 }
